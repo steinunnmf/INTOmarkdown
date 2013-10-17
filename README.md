@@ -9,7 +9,9 @@
 
 Það gekk nokkuð vel að setja upp Linux með USB á tvær nýjar Toshiba vélar hinsvegar er einn hópmeðlimur með 10 ára gamla Acer vél og það tókst ekki að keyra Linux á henni.
 
+[Matti](http://i.imgur.com/FDBLFLc)
 
+[Steinunn](http://i.imgur.com/9Gw2gOA)
 
 ## 2. Uppsetning á vim && git
 
@@ -36,3 +38,4 @@ Source code - [Sjá hér](http://www.chiark.greenend.org.uk/~sgtatham/putty/down
 ## 5. Unnið með Git (2. hluti)
 
 Þetta var allt saman mjög fróðlegt, við notuðum [þessa síðu](http://daringfireball.net/projects/markdown/syntax#link) til þess að finna út hvernig átti að setja linka og myndir inn í Markdown.
+Við notuðum [imgur](http://imgur.com) til þess að setja inn myndir.
